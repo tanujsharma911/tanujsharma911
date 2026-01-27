@@ -2,6 +2,7 @@
 <h3 align="center">pursuing B.Tech from Techno India NJR Institute of Technology, Udaipur</h3>
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/tanujsharma911/](https://www.linkedin.com/in/tanujsharma911/)
+- 🗺️ My Mind Maps [View on Excalidraw](https://excalidraw.com/#json=lccHx9WVLcr-cau_Jpwc-,3y8D_qXmjOqfSmS50-9qDA)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
