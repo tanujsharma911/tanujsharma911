@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Tanuj Sharma</h1>
-<h3 align="center">pursuing B.Tech from Techno India NJR Institute of Technology, Udaipur</h3>
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/tanujsharma911/](https://www.linkedin.com/in/tanujsharma911/)
+<h3 align="center">Obsessed with writing clean code & industry best practices</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tanujsharma911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanujsharma911" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tanujsharma911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanujsharma911" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/tanujsharma911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tanujsharma911" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tanujsharma911" target="blank">LinkedIn</a>
+<a href="https://www.leetcode.com/tanujsharma911" target="blank">LeetCode</a>
+<a href="https://auth.geeksforgeeks.org/user/tanujsharma911" target="blank">Geeks For Geeks</a>
+<a href="https://medium.com/@hellotanujsharma" target="blank">Medium</a>
 </p>
 
 <h3 align="left">I am familiar with:</h3>
