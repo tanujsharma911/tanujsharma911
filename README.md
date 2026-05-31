@@ -12,7 +12,7 @@
 <h3 align="left">I am familiar with:</h3>
 <div>
   <img
-    src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white"
+    src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"
     alt="Redis Logo"
     className="inline-block"
   />
