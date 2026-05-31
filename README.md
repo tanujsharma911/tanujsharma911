@@ -12,6 +12,11 @@
 <h3 align="left">I am familiar with:</h3>
 <div>
   <img
+    src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white"
+    alt="Redis Logo"
+    className="inline-block"
+  />
+  <img
     src="https://img.shields.io/badge/hostinger-%23673DE6.svg?style=for-the-badge&logo=hostinger&logoColor=white"
     alt="Hostinger Logo"
     className="inline-block"
